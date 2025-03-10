@@ -60,6 +60,7 @@ header {
   border-radius: 24px;
   border: 2px transparent;
   padding: 8px 40px;
+  cursor: pointer;
 }
 
 .container nav ul button:hover {
@@ -71,4 +72,139 @@ header {
 .container nav ul button:active {
   background-color: #116288;
   transition: 0.2s;
+}
+
+/* ==================================================================
+                        Start Main Section
+===================================================================== */
+
+main {
+  background-color: #0a2640;
+  font-family: "Manrope", sans-serif;
+}
+
+.main-section-container {
+  display: flex;
+  gap: 62px;
+  justify-content: space-around;
+}
+
+.main-section-container-left-div {
+  margin-top: 56.5px;
+}
+
+.main-section-container-left-div h1 {
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 72px;
+  color: #ffffff;
+  width: 559px;
+}
+
+.main-section-container-left-div p {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 28px;
+  color: #f1f1f1;
+  width: 567px;
+  padding-top: 16px;
+}
+
+.main-section-container-left-div-button-1 {
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 28px;
+  color: #0a2640;
+  margin-top: 40px;
+  border-radius: 56px;
+  border: 2px transparent;
+  padding: 16px 56px;
+  cursor: pointer;
+  background-color: #65e4a3;
+}
+
+.main-section-container-left-div-button-1:hover {
+  background-color: #116288;
+  color: #ffffff;
+  transition: 0.3s;
+}
+
+.main-section-container-left-div-button-2 {
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 28px;
+  color: #ffffff;
+  border-radius: 56px;
+  padding: 16px 56px;
+  border: 2px solid #fff;
+  background-color: #0a2640;
+  margin-left: 24px;
+  cursor: pointer;
+}
+
+.main-section-container-left-div-button-2:hover {
+  background-color: #ffffff;
+  color: #116288;
+  border: 2px solid #116288;
+  transition: 0.2s;
+}
+
+.main-section-container-right-div-img-2 {
+  background-color: #3f576d;
+  width: 192.1751251220703px;
+  height: 165.33502197265625px;
+  border-radius: 15.03px;
+  padding: 11px 11px 17px 11px;
+  margin: 25.77px 38px 0 0px;
+}
+
+.main-section-container-two {
+  display: flex;
+  padding-top: 99.55px;
+  padding-bottom: 75.63px;
+  justify-content: center;
+}
+
+.main-section-container-two ul {
+  display: flex;
+  align-items: center;
+}
+
+.main-section-container-two ul li {
+  list-style: none;
+  padding: 0 34px; /* 56px */
+}
+
+.main-section-container-two ul li a {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  text-decoration: none;
+}
+
+.main-section-container-two ul li a img {
+  width: 23.16px;
+  height: 33.16px;
+}
+
+.main-section-container-two ul li a h4 {
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 36.27px;
+  line-height: 28.21px;
+}
+
+#main-servise-logo-two {
+  width: 42.45px;
+  height: 42.45px;
+}
+
+#main-servise-logo-four {
+  width: 42.45px;
+  height: 42.45px;
+}
+
+#main-servise-logo-six {
+  width: 42.45px;
+  height: 42.45px;
 }
