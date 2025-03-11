@@ -494,3 +494,170 @@ main {
   background-color: #0a2640;
   color: #ffffff;
 }
+
+/* ==============================================================================
+                              Start Section four 
+================================================================================= */
+
+.section-four-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 72px;
+  font-family: "Manrope", sans-serif;
+  background-color: #0a2640;
+  padding: 96px 0 96px 0;
+}
+
+.section-four-container-main-div-one {
+  display: flex;
+  align-items: flex-end;
+  margin-left: 55px;
+  gap: 262px;
+}
+
+.section-four-container-main-div-one h2 {
+  width: 716px;
+  color: #ffffff;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 72px;
+}
+
+.section-four-container-main-div-one img {
+  width: 172px;
+  height: 73px;
+}
+
+.section-four-container-main-div-two {
+  display: flex;
+  gap: 22px;
+}
+
+.section-four-container-main-div-two-service-one {
+  background-color: #ffffff;
+  padding: 40px;
+  border-radius: 12px;
+  height: 322px;
+}
+
+.section-four-container-main-div-two-service-one p {
+  width: 270px;
+  color: #000000;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 36px;
+  padding-bottom: 40px;
+}
+
+.albus-dumbledore {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.albus-dumbledore img {
+  width: 58px;
+  height: 58px;
+}
+
+.albus-dumbledore div h4 {
+  color: #000000;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 32px;
+  padding-bottom: 6px;
+}
+
+.albus-dumbledore div div {
+  color: #0a2640;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 32px;
+}
+
+.section-four-container-main-div-two-service-two {
+  background-color: #ffffff;
+  padding: 40px;
+  border-radius: 12px;
+  height: 394px;
+  width: 350px;
+}
+
+.section-four-container-main-div-two-service-two p {
+  width: 261px;
+  color: #000000;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 36px;
+  padding-bottom: 40px;
+}
+
+.albus-dumbledore {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.albus-dumbledore img {
+  width: 58px;
+  height: 58px;
+}
+
+.albus-dumbledore div h4 {
+  color: #000000;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 32px;
+  padding-bottom: 6px;
+}
+
+.albus-dumbledore div div {
+  color: #0a2640;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 32px;
+}
+
+.section-four-container-main-div-two-service-three {
+  background-color: #ffffff;
+  padding: 40px;
+  border-radius: 12px;
+  height: 358px;
+}
+
+.section-four-container-main-div-two-service-three p {
+  width: 270px;
+  color: #000000;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 36px;
+  padding-bottom: 40px;
+}
+
+.albus-dumbledore {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.albus-dumbledore img {
+  width: 58px;
+  height: 58px;
+}
+
+.albus-dumbledore div h4 {
+  color: #000000;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 32px;
+  padding-bottom: 6px;
+}
+
+.albus-dumbledore div div {
+  color: #0a2640;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 32px;
+}
