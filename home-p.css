@@ -382,3 +382,70 @@ main {
   border: 1px solid;
   color: #0a2640;
 }
+
+/* =============================================================================
+                              Start Section Two 
+================================================================================ */
+
+.section-two-container {
+  display: flex;
+  gap: 150px;
+  align-items: center;
+  justify-content: center;
+  font-family: "Manrope", sans-serif;
+}
+
+.section-two-container-main-img {
+  width: 494px;
+  height: 610px;
+}
+
+.section-two-container-tr-main-div h2 {
+  width: 493px;
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 56px;
+  color: #000000;
+}
+
+.section-two-container-tr-main-div ul {
+  display: flex;
+  gap: 24px;
+  flex-direction: column;
+  margin: 40px 0 56px 0;
+}
+
+.section-two-container-tr-main-div ul li {
+  display: flex;
+  gap: 27px;
+  align-items: center;
+}
+
+.section-two-container-tr-main-div ul li img {
+  width: 36px;
+  height: 36px;
+  cursor: pointer;
+}
+
+.section-two-container-tr-main-div ul li p {
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 32px;
+  color: #000000;
+}
+
+.section-two-container-tr-main-div button {
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 28px;
+  border-radius: 56px;
+  border: 2px transparent;
+  cursor: pointer;
+  padding: 16px 56px;
+  background-color: #0a2640;
+}
+
+.section-two-container-tr-main-div button:hover {
+  background-color: #116288;
+}
