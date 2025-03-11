@@ -208,3 +208,177 @@ main {
   width: 42.45px;
   height: 42.45px;
 }
+
+/* =======================================================================
+                           Start Section One 
+========================================================================== */
+
+.section-one-container {
+  display: flex;
+  justify-self: center;
+  flex-direction: column;
+  margin: 84px 0 185px 0;
+  font-family: "Manrope", sans-serif;
+}
+
+.section-one-container h3 {
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 32px;
+  color: #777777;
+  text-align: center;
+}
+
+.section-one-container h2 {
+  width: 842px;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 72px;
+  text-align: center;
+  color: #000000;
+  margin: auto;
+}
+
+.section-one-container-service-main-div {
+  display: flex;
+  margin-top: 78px;
+  gap: 100px;
+}
+
+.section-one-container-service-div-service-one img {
+  width: 300px;
+  height: 354px;
+  border-radius: 24px;
+}
+
+.section-one-container-service-div-service-one h5 {
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 36px;
+  color: #000000;
+  padding: 24px 0 12px 0;
+}
+
+.section-one-container-service-div-service-one p {
+  width: 293px;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 32px;
+  color: #777777;
+  padding-bottom: 40px;
+}
+
+.section-one-container-service-div-service-one div {
+  display: inline;
+  gap: 12px;
+}
+
+.section-one-container-service-div-service-one div div {
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 36px;
+  color: #0a2640;
+}
+
+.section-one-container-service-div-service-one div i {
+  width: 24px;
+  padding-left: 12px;
+}
+
+.section-one-container-service-div-service-one hr {
+  width: 164px;
+  border: 1px solid;
+  color: #0a2640;
+}
+
+.section-one-container-service-div-service-two img {
+  width: 300px;
+  height: 354px;
+  border-radius: 24px;
+}
+
+.section-one-container-service-div-service-two h5 {
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 36px;
+  color: #000000;
+  padding: 24px 0 12px 0;
+}
+
+.section-one-container-service-div-service-two p {
+  width: 293px;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 32px;
+  color: #777777;
+  padding-bottom: 40px;
+}
+
+.section-one-container-service-div-service-two div {
+  display: inline;
+  gap: 12px;
+}
+
+.section-one-container-service-div-service-two div div {
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 36px;
+  color: #0a2640;
+}
+
+.section-one-container-service-div-service-two div i {
+  width: 24px;
+  padding-left: 12px;
+}
+
+.section-one-container-service-div-service-two hr {
+  width: 164px;
+  border: 1px solid;
+  color: #0a2640;
+}
+
+.section-one-container-service-div-service-three img {
+  width: 300px;
+  height: 354px;
+  border-radius: 24px;
+}
+
+.section-one-container-service-div-service-three h5 {
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 36px;
+  color: #000000;
+  padding: 24px 0 12px 0;
+}
+
+.section-one-container-service-div-service-three p {
+  width: 293px;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 32px;
+  color: #777777;
+  padding-bottom: 40px;
+}
+
+.section-one-container-service-div-service-three div {
+  display: inline;
+  gap: 12px;
+}
+
+.section-one-container-service-div-service-three div div {
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 36px;
+  color: #0a2640;
+}
+
+.section-one-container-service-div-service-three div i {
+  width: 24px;
+  padding-left: 12px;
+}
+
+.section-one-container-service-div-service-three hr {
+  width: 164px;
+  border: 1px solid;
+  color: #0a2640;
+}
