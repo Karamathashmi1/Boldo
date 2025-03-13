@@ -911,9 +911,73 @@ main {
   margin: 84px 0 124px 0;
   display: flex;
   justify-self: center;
+  cursor: pointer;
 }
 
 .section-six-load-more-button:hover {
   background-color: #0a2640;
+  color: #ffffff;
+}
+
+/* =====================================================================================
+                                  Start Section Seven 
+======================================================================================== */
+
+.section-seven-container {
+  display: flex;
+  justify-self: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 48px;
+  width: 1200px;
+  border-radius: 12px;
+  font-family: "Manrope", sans-serif;
+  background-color: #0a2640;
+  background-image: url(home-p-img/sec-seven-bgc-tr-img.svg);
+  background-repeat: no-repeat;
+  background-position: top right;
+  padding: 72px 0 72px 0;
+  margin-bottom: 84px;
+}
+
+.section-seven-container h2 {
+  color: #ffffff;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 72px;
+  text-align: center;
+  width: 716px;
+}
+
+.section-seven-container form {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+}
+
+.section-seven-container form input {
+  color: #000000;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 32px;
+  border-radius: 240px;
+  border: 2px solid transparent;
+  padding: 12px 158px 12px 32px;
+}
+
+.section-seven-container form a button {
+  color: #0a2640;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 28px;
+  border-radius: 56px;
+  border: 2px solid transparent;
+  padding: 16px 56px;
+  background-color: #65e4a3;
+  cursor: pointer;
+}
+
+.section-seven-container form a button:hover {
+  background-color: #116288;
   color: #ffffff;
 }
