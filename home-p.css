@@ -981,3 +981,90 @@ main {
   background-color: #116288;
   color: #ffffff;
 }
+
+/* =====================================================================================
+                                  Start Footer 
+======================================================================================== */
+
+.footer-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Manrope", sans-serif;
+  gap: 179px;
+  padding: 100px 0 117px 0;
+}
+
+.footer-left-main-div div {
+  display: flex;
+  align-items: center;
+  gap: 11px;
+  padding-bottom: 40px;
+}
+
+.footer-left-main-div div img {
+  width: 24.92;
+  height: 32.37;
+}
+
+.footer-left-main-div div h3 {
+  color: #0a2640;
+  font-weight: 700;
+  font-size: 43.25px;
+  line-height: 33.64px;
+}
+
+.footer-left-main-div div + p {
+  width: 300px;
+  color: #777777;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 28px;
+  padding-bottom: 64px;
+}
+
+.footer-left-main-div p {
+  color: #777777;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 28px;
+}
+
+.footer-right-main-div {
+  display: flex;
+  gap: 96px;
+}
+
+.footer-right-main-div ul {
+  display: flex;
+  flex-direction: column;
+  list-style: none;
+  gap: 32px;
+  width: 190px;
+}
+
+.footer-right-main-div ul h4 {
+  color: #000000;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 32px;
+}
+
+.footer-right-main-div ul li a {
+  color: #777777;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 32px;
+  text-decoration: none;
+}
+
+.footer-right-main-div ul li a span {
+  color: #0a2640;
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 28px;
+  border-radius: 120px;
+  padding: 4px 14px;
+  background-color: #65e4a3;
+  margin-left: 12px;
+}
