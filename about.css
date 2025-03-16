@@ -293,3 +293,78 @@ main {
   line-height: 32px;
   padding-top: 12px;
 }
+
+/* =====================================================================================
+                                Start Section Four
+======================================================================================== */
+
+#section-five {
+  background-color: #0a2640;
+}
+
+.section-five-container {
+  display: flex;
+  justify-self: center;
+  align-items: start;
+  flex-direction: column;
+  font-family: "Manrope", sans-serif;
+  padding: 120px 0 120px 0;
+}
+
+.section-five-container h2 {
+  color: #f1f1f1;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 32px;
+  padding-bottom: 12px;
+}
+
+.section-five-container h1 {
+  color: #ffffff;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 72px;
+  padding-bottom: 22.5px;
+}
+
+.section-five-container > p {
+  color: #f1f1f1;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 32px;
+  padding-bottom: 72px;
+  width: 790px;
+}
+
+.section-five-container-main-div {
+  display: flex;
+  align-items: center;
+  gap: 72px;
+  flex-direction: column;
+}
+
+.section-five-container-main-div > div {
+  display: flex;
+  gap: 50px;
+}
+
+.section-five-container-main-div > div img {
+  width: 150px;
+  height: 151px;
+}
+
+.section-five-container-main-div > div > div h3 {
+  color: #ffffff;
+  font-weight: 400;
+  font-size: 28px;
+  line-height: 48px;
+  padding-bottom: 16px;
+}
+
+.section-five-container-main-div > div > div p {
+  color: #f1f1f1;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 32px;
+  width: 602px;
+}
