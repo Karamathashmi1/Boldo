@@ -171,3 +171,60 @@ main {
   line-height: 32px;
   width: 790px;
 }
+
+/* =====================================================================================
+                                Start Section Three
+======================================================================================== */
+
+#section-three {
+  background-color: #0a2640;
+}
+
+.section-three-container {
+  display: flex;
+  justify-self: center;
+  align-items: center;
+  flex-direction: column;
+  font-family: "Manrope", sans-serif;
+  padding: 96px 0 96px 0;
+}
+
+.section-three-container > h2 {
+  color: #f1f1f1;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 32px;
+  padding-bottom: 12px;
+  text-align: center;
+}
+
+.section-three-container > h1 {
+  color: #ffffff;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 72px;
+  text-align: center;
+  padding-bottom: 82px;
+  width: 842px;
+}
+
+.section-three-container-main-div {
+  display: flex;
+  align-items: center;
+  gap: 141.5px;
+}
+
+.section-three-container-main-div div h2 {
+  color: #4fe9a4;
+  font-weight: 400;
+  font-size: 96px;
+  line-height: 56px;
+  padding-bottom: 32px;
+}
+
+.section-three-container-main-div div p {
+  color: #f1f1f1;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 36px;
+}
