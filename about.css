@@ -125,7 +125,7 @@ main {
   justify-content: center;
   align-items: center;
   gap: 50px;
-  margin: -87px;
+  margin-top: -87px;
 }
 
 #section-one-container div {
@@ -134,3 +134,40 @@ main {
   flex-direction: column;
 }
 
+/* =====================================================================================
+                                Start Section Two
+======================================================================================== */
+
+.section-two-container {
+  display: flex;
+  justify-self: center;
+  flex-direction: column;
+  font-family: "Manrope", sans-serif;
+  margin: 120px 0 96px 0;
+}
+
+.section-two-container h2 {
+  color: #777777;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 32px;
+  padding-bottom: 12px;
+  text-align: start;
+}
+
+.section-two-container h1 {
+  color: #000000;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 72px;
+  width: 842px;
+  padding-bottom: 30px;
+}
+
+.section-two-container p {
+  color: #777777;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 32px;
+  width: 790px;
+}
